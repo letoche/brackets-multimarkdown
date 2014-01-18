@@ -8,11 +8,10 @@ A [Brackets](https://github.com/adobe/brackets) extension that provides a live p
 * multimarkdown cheat-sheet
 
 ### Installation
-cd to_your_brackets_extension_folder
-git clone https://bitbucket.org/bobino/brackets-multimarkdown
-cd brackets-multimarkdown/node
-sudo npm install
-
+* cd to_your_brackets_extension_folder
+* git clone https://bitbucket.org/bobino/brackets-multimarkdown
+* cd brackets-multimarkdown/node
+* sudo npm install
 
 ### Todo
 Not tested on windows
