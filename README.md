@@ -29,7 +29,7 @@ This extension uses the following open source components:
 
 Some codes from
 
-* [MarkdownPreview for Brackets](https://github.com/gruehle/MarkdownPreview)A Brackets extension that provides a live preview of markdown documents.
+* [MarkdownPreview for Brackets](https://github.com/gruehle/MarkdownPreview) - A Brackets extension that provides a live preview of markdown documents.
 
 
 
