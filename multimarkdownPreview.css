@@ -1,11 +1,4 @@
 /* Toolbar icon */
-#markdown-preview-icon {
-    background-image: url(markdown-sprite.svg);
-}
-
-#markdown-preview-icon.active {
-    background-position: 0 -24px !important;
-}
 
 .mmd-clickable{
     cursor : pointer;
