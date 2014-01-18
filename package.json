@@ -1,0 +1,12 @@
+{
+    "name": "letoche-multimarkdown",
+    "title": "MultiMarkdown Preview",
+    "description": "Live preview of multimarkdown documents",
+    "homepage": "https://github.com/gruehle/MarkdownPreview",
+    "version": "0.1",
+    "author": "Patrick Chatain <patrick.chatain@gmail.com> (http://github.com/...)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.25.0"
+    }
+}
