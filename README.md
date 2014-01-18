@@ -14,6 +14,9 @@ cd brackets-multimarkdown/node
 sudo npm install
 
 
+### Todo
+Not tested on windows
+
 ### How To Use
 When a markdown document (with extension ".md" or ".markdown") is open, menu items are added to the context menu.
 Click on the language statusbar item to show the preview panel.
